@@ -1,4 +1,2 @@
 def tweet():
-    return "i love charts"
-
-
+    return "i love charts" 
