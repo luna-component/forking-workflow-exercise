@@ -1,2 +1,2 @@
 def tweet():
-    return "This is my first python function!!"
+    return "i love charts" 
